@@ -1,0 +1,34 @@
+      df                                                                           
+                                                    
+      Phone Number: df                   
+      Email: df                                 
+      City: df                                   
+                                                     
+             
+==[ Education ]=====================================================                                     
+                                                    
+      University Name:d  
+      Major in:d              
+      Graduation Date:d              
+                                                    
+                
+==[ Experience ]====================================================         
+                                                    
+      Company Name:d  
+      Job Title:d                   
+      Summary of your key responsibilities:          
+      d                         
+                                                    
+               
+==[ Skills ]========================================================                                  
+                                                    
+      - d                        
+      - d                                     
+      - d                                     
+      - d                                     
+                                         
+                                                    
+==[ Languages ]=====================================================         
+                                                                                                                                      
+      Arabic:d                       
+      English:d
